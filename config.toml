@@ -1,0 +1,4 @@
+baseURL = "http://bestofhinduism.com/"
+languageCode = "en-us"
+title = "Best of Hinduism"
+theme = "ananke"
